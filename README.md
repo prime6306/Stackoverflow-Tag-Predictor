@@ -85,7 +85,7 @@ re
 
 datetime
 
-#⚡ Usage
+# Usage
 
 Open the Jupyter Notebook:
 
@@ -106,6 +106,5 @@ Modify configurations (e.g., choice of classifier, parameters) as needed.
 
 
 
-Evaluate performance with accuracy, precision, recall, and F1 score.
+Evaluate performance with accuracy, precision, recall, and micro F1 score.
 
-🤝 Contributing
